@@ -1,1 +1,2 @@
 # Machin-Learning-Naive-Bayes
+The purpose of the purpose of this project was to implement a Naive-Bayes Classifier and test the implementation with training and testing data. This was implemented with priors in order to test the effect on the overall result. The measurment for the final result was the F-score as well as Disparate impact. Under the report section plots can be seen of the influence of alpha and the two priors a and b on the final result.
